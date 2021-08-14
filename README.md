@@ -1,5 +1,6 @@
 # MMO Games Database Design And Implementation
-massive multiplayer online (MMO) games database design and implementation.
+massive multiplayer online (MMO) games database design and implementation.\
+<img src='Diagram files/diagram-main.jpg'></img>
 ## Overview of content
 This project consists of three main parts:
 * Building database tables and injecting data into them
